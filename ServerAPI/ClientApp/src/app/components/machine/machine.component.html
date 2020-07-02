@@ -1,0 +1,43 @@
+<div class="container">
+    <div class="info">
+        <div class="info-group">
+            <p class="title">Nome:</p>
+            <p class="value">{{machine.name}}</p>
+        </div>
+
+        <div class="info-group">
+            <p class="title">Ip:</p>
+            <p class="value">{{machine.ip}}</p>
+        </div>
+
+        <div class="info-group">
+            <p class="title">Antivirus:</p>
+            <p class="value">{{machine.antivirus}}</p>
+        </div>
+
+        <div class="info-group">
+            <p class="title">Firewall:</p>
+            <p class="value">{{machine.is_firewall_active ? 'Ativo' : 'Inativo'}}</p>
+        </div>
+
+        <div class="info-group">
+            <p class="title">Versão do Windows:</p>
+            <p class="value">{{machine.windows_version}}</p>
+        </div>
+
+        <div class="info-group">
+            <p class="title">Versão do .Net:</p>
+            <p class="value">{{machine.dotnet_version}}</p>
+        </div>
+
+        <div class="info-group">
+            <p class="title">HardDrive:</p>
+            <p class="value">{{machine.total_hd_size}}</p>
+        </div>
+    </div>
+    <div class="terminal">
+        <terminal [terminalType]="terminalType"
+                  [machineIp]="machine.ip">
+        </terminal>
+    </div>
+</div>

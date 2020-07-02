@@ -1,0 +1,37 @@
+.container{
+    background-color: lightslategray;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+
+/* .container:hover{
+    cursor: pointer;
+    opacity: 80%;
+} */
+
+.info-group{
+    margin-bottom: 0;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+.value{
+    font-size: 10px;
+}
+
+.info{
+
+}
+
+.terminal{
+    align-self: flex-end;
+    width: 700px;
+    margin-left: 100px;
+}

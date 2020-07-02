@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Desenvolvimento\\Pessoal\\Teste Atlântico\\TesteInstitutoAtlantico\\DomainData\\DomainData.csproj": {}
+  },
+  "projects": {
+    "C:\\Desenvolvimento\\Pessoal\\Teste Atlântico\\TesteInstitutoAtlantico\\DomainData\\DomainData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desenvolvimento\\Pessoal\\Teste Atlântico\\TesteInstitutoAtlantico\\DomainData\\DomainData.csproj",
+        "projectName": "DomainData",
+        "projectPath": "C:\\Desenvolvimento\\Pessoal\\Teste Atlântico\\TesteInstitutoAtlantico\\DomainData\\DomainData.csproj",
+        "packagesPath": "C:\\Users\\João Paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvolvimento\\Pessoal\\Teste Atlântico\\TesteInstitutoAtlantico\\DomainData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\João Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.clinicasim.com/repository/nugetsimco/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Management": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

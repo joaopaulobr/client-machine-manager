@@ -1,0 +1,9 @@
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\bin\Release\netcoreapp3.1\Domain.deps.json
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\bin\Release\netcoreapp3.1\Domain.dll
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\obj\Release\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\obj\Release\netcoreapp3.1\Domain.dll
+C:\Desenvolvimento\Pessoal\Teste Atlântico\TesteInstitutoAtlantico\DomainData\obj\Release\netcoreapp3.1\Domain.pdb
